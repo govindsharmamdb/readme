@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Govind sharma
 - 👀 I’m interested in coding
-- 🌱 I’m currently working in digital marketing compny and also lerning python.
-- 💞️ I’m looking to collaborate on web designing and data science
+- 🌱 I’m currently working in digital marketing  and learning full stack web development.
+- 💞️ I’m looking to collaborate in web designing and data science
 - 📫 How to reach me ...
 
 <!---
